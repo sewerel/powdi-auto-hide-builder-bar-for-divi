@@ -1,3 +1,8 @@
+## [1.0.1] – 2026-09-18
+
+### 🛠 Improvements
+- Added source code repository link and build instructions to readme.txt
+
 ## [1.0.0] – 2026-09-14
 
 ### 🚀 New Features

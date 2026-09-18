@@ -3,7 +3,7 @@
  * Plugin Name:       Powdi Auto-Hide Builder Bar for Divi
  * Plugin URI:         https://wordpress.org/plugins/powdi-auto-hide-builder-bar-for-divi/
  * Description:        Adds an "Enable show/hide menu" button to the Divi 5 Visual Builder's builder bar: auto-hides it 300ms after the mouse leaves, and reveals it again 300ms after the mouse rests near the left edge (reflowing the sidebars/preview iframe to match).
- * Version:            1.0.0
+ * Version:            1.0.1
  * Requires at least:  5.8
  * Requires PHP:       7.4
  * Author:             Powdi Themes
@@ -18,7 +18,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'POWDIABB_VERSION', '1.0.0' );
+define( 'POWDIABB_VERSION', '1.0.1' );
 define( 'POWDIABB_FILE', __FILE__ );
 define( 'POWDIABB_PATH', plugin_dir_path( __FILE__ ) );
 define( 'POWDIABB_URL', plugin_dir_url( __FILE__ ) );

@@ -3,7 +3,7 @@ Contributors: sewerel
 Tags: divi, divi 5, visual builder, builder bar, productivity
 Requires at least: 5.8
 Tested up to: 7.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 Requires PHP: 7.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -73,6 +73,9 @@ The bundled file is built from the ES modules under `src/` using webpack and bab
 
 == Changelog ==
 
+= 1.0.1 =
+* Added source code repository link and build instructions to readme.txt.
+
 = 1.0.0 =
 * Initial release.
 * "Enable show/hide menu" button added to the Divi 5 Visual Builder's own left builder bar.
@@ -81,6 +84,9 @@ The bundled file is built from the ES modules under `src/` using webpack and bab
 * Button's icon shows a live active-look highlight reflecting whether auto-hide is currently enabled.
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+Adds a source code repository link to the readme for WordPress.org.
 
 = 1.0.0 =
 Initial release.

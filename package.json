@@ -1,6 +1,6 @@
 {
   "name": "powdi-auto-hide-builder-bar-for-divi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "Divi 5 Visual Builder extension: auto-hide/show the builder bar on hover.",
   "scripts": {
