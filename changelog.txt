@@ -1,0 +1,9 @@
+## [1.0.0] – 2026-09-14
+
+### 🚀 New Features
+- Initial release
+- "Enable show/hide menu" button added to the Divi 5 Visual Builder's own left builder bar
+- Auto-hide behavior: the bar hides itself 300ms after the mouse stops hovering it, and reappears 300ms after the mouse rests within 15px of the left edge of the screen
+- Sidebars and the `#et-vb-app-frame` preview iframe reflow correctly to reclaim/restore the freed horizontal space via `divi/app-ui` store dispatches
+- Works both with and without a left/right sidebar open, via dual mouse-tracking listeners on the top window and the app-window iframe
+- Button's icon shows a live active-look highlight (blue stroke) reflecting whether auto-hide is currently enabled
